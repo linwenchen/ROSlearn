@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lwc/learnros/WORKSPACE/catkin_ws/install/setup.sh
